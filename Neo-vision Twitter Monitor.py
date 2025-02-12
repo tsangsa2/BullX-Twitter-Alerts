@@ -22,8 +22,8 @@ user_data_dir = r"C:\Users\user\Documents\Code\Twitter follow monitor bot\chrome
 processed_coins_file = "processed_coins.json"
 
 # Telegram Bot API Token and Channel ID
-api_token = "7724582031:AAHnPk5uQ5TAK4UamOA1Lxi40h8ycO9Vb_w"
-channel_id = "-1002312728584"  # Channel ID or username (e.g., @my_channel)
+api_token = ""
+channel_id = ""  # Channel ID or username (e.g., @my_channel)
 
 
 def random_sleep(min_sleep=1, max_sleep=2):
